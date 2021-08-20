@@ -1,0 +1,9 @@
+.formContainer {
+  background-color: aqua;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+.table {
+  margin: 50px;
+}
